@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Yash Nagapure
 
-### Full-Stack & Mobile App Developer
 
 🎓 B.Tech Computer Science Engineering @ AISSMS Institute of Information Technology, Pune (CGPA: 8.17)
 
