@@ -1,52 +1,104 @@
 # 👋 Hi, I'm Yash Nagapure
 
+🎓 **B.Tech Computer Science & Engineering @ AISSMS Institute of Information Technology, Pune**
+📊 **CGPA: 8.17 / 10**
 
-🎓 B.Tech Computer Science Engineering @ AISSMS Institute of Information Technology, Pune (CGPA: 8.17)
-
-💻 Passionate about building real-world software products using modern web and mobile technologies.
+💻 Computer Science student focused on **software development, problem-solving, and software engineering fundamentals**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* Building full-stack applications with the MERN stack
-* Interested in backend systems, APIs, and scalable software
-* Experience developing Android and React Native applications
-* Published research work in healthcare technology
-* Actively improving DSA and software engineering skills
+* 🎓 Final-year Computer Science Engineering student
+* 💻 Interested in **Java, C++, Python, SQL, and Data Structures & Algorithms**
+* 🧠 Strong focus on **problem-solving and programming fundamentals**
+* 📱 Experience in Android application development
+* 🤖 Interested in AI/LLM applications and integration
+* ☁️ AWS Cloud Practitioner Certified
+* 📚 Continuously improving my software engineering and technical skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Frontend**
-React.js • React Native • TypeScript • JavaScript • Tailwind CSS • HTML • CSS
+### Programming Languages
 
-**Backend**
-Node.js • Express.js • MongoDB • MySQL • REST APIs • JWT • Socket.IO
+**Java** • **C++** • **Python** • **C** • **SQL**
 
-**Languages**
-Java • JavaScript • TypeScript • Python • C • C++ • SQL
+### Development
 
-**Tools**
-Git • GitHub • Postman • VS Code • Android Studio • AWS (Cloud Practitioner Basics)
+**React.js** • **HTML** • **CSS** • **REST APIs** • **JWT**
+
+### Databases
+
+**MySQL** • **MongoDB**
+
+### AI / ML
+
+**Prompt Engineering** • **LLM Integration** • **Ollama** • **Llama 3.2**
+
+### Core Computer Science
+
+**Data Structures & Algorithms** • **OOP** • **DBMS** • **Operating Systems** • **Computer Networks** • **System Design**
+
+### Tools & Cloud
+
+**Git** • **GitHub** • **GitHub Actions** • **Postman** • **VS Code** • **Android Studio** • **AWS Cloud**
 
 ---
 
-## 📄 Publication
+## 💼 Experience
+
+**Freelance Developer — CodeNova Tech Solutions**
+*Feb 2026 – May 2026*
+
+Worked on software development solutions involving automated certificate generation, student record management, and email delivery.
+
+**Android Developer Intern — Mountreach Solution Pvt. Ltd.**
+*June 2023 – July 2023*
+
+Worked on Android application development, including health-monitoring features, notifications, reminders, and user engagement functionality.
+
+---
+
+## 📄 Research Publication
 
 **Design and Implementation of FHIR-Based Terminology Microservices for Interoperable Healthcare Systems**
 
-Published in the International Journal of Innovative Research in Technology (IJIRT)
+Published in the **International Journal of Innovative Research in Technology (IJIRT)**.
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-* System Design Fundamentals
-* Scalable Backend Architectures
-* Production-Level MERN Applications
-* Clean Code & Software Engineering Practices
+**B.Tech — Computer Science & Engineering**
+AISSMS Institute of Information Technology, Pune
+**2024 – 2027 | CGPA: 8.17 / 10**
+
+**Diploma — Information Technology**
+Government Polytechnic, Aurangabad
+**2021 – 2024 | 85.76%**
+
+---
+
+## 📜 Certifications
+
+* **AWS Cloud Practitioner Essentials — Certified**
+* **Full Stack Web Development with AI Tools — Edunet Foundation**
+
+---
+
+## 🌱 Currently Improving
+
+* Data Structures & Algorithms
+* Java
+* C++
+* Python
+* SQL & Database Concepts
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+* Software Engineering Fundamentals
 
 ---
 
@@ -58,12 +110,16 @@ Published in the International Journal of Innovative Research in Technology (IJI
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/yash-nagapure-46ba66287/
-* 📧 Email: [yashnagapure35@gmail.com](mailto:yashnagapure35@gmail.com)
-* 💻 GitHub: https://github.com/yashn555
+💼 **LinkedIn:** https://www.linkedin.com/in/yash-nagapure-46ba66287/
+
+📧 **Email:** [yashnagapure35@gmail.com](mailto:yashnagapure35@gmail.com)
+
+💻 **GitHub:** https://github.com/yashn555
+
+🌐 **Portfolio:** https://yash-nagapure.vercel.app/
 
 ---
 
-> Build real systems. Write clean code. Keep improving. 🚀
+> **Build real systems. Solve real problems. Keep improving. 🚀**
